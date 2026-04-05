@@ -1,0 +1,9 @@
+VoltageOS 5.8
+Build Date: 04/05/2026
+Device Side:
+ - Initial Android 16 Build
+
+Kernel Side:
+- version: Uprev to r18a2
+- qcacld-3.0: Use freq hint in scan for ssid
+- qcacld-3.0: Add packet injection and channel fix support
