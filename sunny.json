@@ -4,12 +4,12 @@
       "maintainer": "ZNAIV",
       "oem": "Xiaomi",
       "device": "sunny",
-      "filename": "voltage-5.8-sunny-20260422-0122-UNOFFICIAL.zip",
-      "download": "https://sourceforge.net/projects/voltage-sunny/files/v5.8/VANILLA/voltage-5.8-sunny-20260422-0122-UNOFFICIAL.zip/download",
-      "timestamp": 1776820880,
-      "md5": "157a5e754153d1877154a9fa5826c237",
-      "size": 1549806957,
-      "version": "5.8"
+      "filename": "voltage-6.2-sunny-20261016-1125-UNOFFICIAL.zip",
+      "download": "https://sourceforge.net/projects/voltage-sunny/files/v6.2/VANILLA/voltage-6.2-sunny-20261016-1125-UNOFFICIAL.zip/download",
+      "timestamp": 1792149837,
+      "md5": "62a638108a4d76abca09137779c1d357",
+      "size": 1596908000,
+      "version": "6.2"
     }
   ]
 }
